@@ -19,7 +19,9 @@ The code is written in Markdown and is intended to be used in a website or web p
 <h1 id="publications"></h1>
 
 <h2 style="margin: 30px 0px -15px;"> Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=7La0oUa0e5IC&hl=en" target="_blank" style="font-size:15px;">Complete List</a>]</h2>
-<!-- <h6 style="margin: 10px 0px -10px;"> * corresponding author</h6> -->
+
+
+
 <ul>
 
 <li><strong>Yanli Yuan</strong>,  B. Wang, C. Zhang, Z. Xiong, C. Li, L. Zhu. “Towards Efficient and Robust Federated Unlearning in IoT Networks”, IEEE Internet of Things Journal (IOTJ), 2024. (SCI 一区, Top 期刊).</li>
@@ -32,7 +34,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 <li>Q. Liu, R. Liu*, Y. Zhang, <strong>Yanli Yuan*</strong>, et al. “Management of Positioning Functions in Cellular Networks for Time-Sensitive Transportation Applications”, IEEE Transactions on Intelligent Transportation System (TITS), 2023. (SCI 一区, Top 期刊).</li>
 <li>X. Yang, M. Sheng*, <strong>Yanli Yuan*</strong>, and T. Q. S. Quek, “Network Topology Inference from Heterogeneous Incomplete Graph Signals”, IEEE Transactions on Signal Processing (TSP), 2020. (SCI 一区, Top期刊).</li>
 <li><strong>Yanli Yuan</strong>, D. W. Soh, H. Yang* and T. Q. S. Quek. “Learning Overlapping community-based Networks”, IEEE Transactions on Signal and Information Processing over Networks(TSIPN), 2019. (SCI 二区).</li>
-</div>
+
 </ul>
 
 
