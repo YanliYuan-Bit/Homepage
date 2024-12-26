@@ -33,10 +33,6 @@ I am currently a Professor at School of Cyberspace Science and Technology, Beiji
 
 {% include_relative _includes/news.md %}
 
-
-
 {% include_relative _includes/publications.md %}
-
-
 
 {% include_relative _includes/contact.md %}
