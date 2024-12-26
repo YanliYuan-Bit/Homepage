@@ -22,7 +22,9 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <ul>
 
-<li><strong>Yanli Yuan</strong>  B. Wang, C. Zhang, Z. Xiong, C. Li, L. Zhu. “Towards Efficient and Robust Federated Unlearning in IoT Networks”, IEEE Internet of Things Journal (IOTJ), 2024. (SCI 一区, Top 期刊).</li>
+<li><strong>Yanli Yuan</strong>,  B. Wang, C. Zhang, Z. Xiong, C. Li, L. Zhu. “Towards Efficient and Robust Federated Unlearning in IoT Networks”, IEEE Internet of Things Journal (IOTJ), 2024. (SCI 一区, Top 期刊).</li>
+<li><strong>Yanli Yuan</strong>,  D. W. Soh, K. Guo, Zehui Xiong*, and T. Q. S. Quek. “Joint Network Topology Inference via Structured Fusion Regularization”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. (CCF A).</li>
+<li><strong>Yanli Yuan</strong>, Dian Lei, Qing Fan, Keli Zhao, Liehuang Zhu, Chuan Zhang, “Achieving Adaptive Privacy-Preserving Graph Neural Networks Training in Cloud Environment”, IEEE 12th International Conference on Information, Communication and Networks (ICICN), 181-186, 2024. <strong>(Best Paper Award)</strong>. </li>
 <!-- <li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://goindex.chen-song90.workers.dev">Googledrive index</a></span> has been now integrated to the webblog.</li>
 <li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://songchen.science/blog/gallery/">Hitchhiker's Gallery</a></span> has been released, thanks to anzai's <span style="color:#e74d3c"><a href="https://github.com/anzai249/easy-masonry/tree/main">work: easy-masonry</a></span> </li>
 <li><strong>[NOV. 2023]</strong> The <span style="color:#e74d3c"><a href="https://bemagic-etn.eu/news/80-bemagic-final-event">Final Event of the BeMAGIC project</a></span> will take place in the Universitat Autònoma de Barcelona, Spain, on 14-15 December. </li>
