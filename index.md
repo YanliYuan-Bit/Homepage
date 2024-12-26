@@ -8,8 +8,7 @@ layout: homepage
 
 I am currently a Professor at School of Cyberspace Science and Technology, Beijing Institute of Technology [BIT](https://cst.bit.edu.cn/index.htm), working in the group led by Prof. [Liehuang Zhu](https://cst.bit.edu.cn/szdw/jsml/bssds/2515180f56bf4a30b0bb672dfab8391d.htm).  I received the B.S. and M.S. degree in computer science from [Beihang University](https://www.buaa.edu.cn/) in 2015 and the Ph.D. degree from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) in 2021. More details about full publications can be found in [Google Scholar](https://scholar.google.com/citations?user=7La0oUa0e5IC&hl=en).
 
-## Opening positions. 
-I am looking for self-motivated Ph.D./master students to join my group, and accept senior undergraduate students to the research group for internship. Please email me ( yanliyuan@bit.edu.cn) your CV if you are interested.
+**Opening position:**. I am looking for self-motivated Ph.D./master students to join my group, and accept senior undergraduate students to the research group for internship. Please email me ( yanliyuan@bit.edu.cn) your CV if you are interested.
 
 
 
