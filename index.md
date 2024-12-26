@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently a Professor at School of Cyberspace Science and Technology, Beijing Institute of Technology [BIT](https://cst.bit.edu.cn/index.htm), working in the group lead by Prof. [Liehuang Zhu](https://cst.bit.edu.cn/szdw/jsml/bssds/2515180f56bf4a30b0bb672dfab8391d.htm).  I received the B.S. and M.S. degree in computer science from [Beihang University](https://www.buaa.edu.cn/) in 2015 and the Ph.D. degree from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). More details about full publications can be found in Google Scholar.
 
 ## Research Interest
 
