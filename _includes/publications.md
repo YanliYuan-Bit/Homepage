@@ -28,9 +28,10 @@ The code is written in Markdown and is intended to be used in a website or web p
 <li>W. Yang, Z. Xiong, <strong>Yanli Yuan*</strong>, W. Jiang, Tony Q.S. Quek, Merouane Debbah, “Achieving Adaptive Privacy-Preserving Graph Neural Networks Training in Cloud Environment”, n IEEE Transactions on Wireless Communications, 2024. (SCI 一区，Top 期刊). </li>
 <li><strong>Yanli Yuan</strong>, D. W. Soh, X. Yang, K. Guo*, and T. Q. S. Quek. “GRACGE: Graph Signal Clustering and Multiple Graph Estimation”, IEEE Transactions on Signal Processing (TSP), 2022. (SCI 一区, Top 期刊). </li>
 <li><strong>Yanli Yuan</strong>, D. W. Soh, Zehui Xiong*, and T. Q. S. Quek. “Applicable and Partial Learning of Graph Topology without Sparsity Priors”, IEEE Transactions on Network Science and Engineering (TNSE), 2022. (SCI 二区). </li>
-<li>R. Liu, M. Liang, J. Nie, <strong>Yanli Yuan*</strong>, Z. Xiong, H. Yu, and N. Guizani. “STMGCN: Mobile Edge Computing-Empowered Vessel Trajectory Prediction Using Spatio-Temporal Multi-Graph Convolutional Network”, IEEE Transactions on Industrial Informatics (TII), 2022. (SCI 一区, Top 期刊).</li>
+<li>R. Liu, M. Liang, J. Nie, <strong>Yanli Yuan*</strong>, Z. Xiong, H. Yu, and N. Guizani. “STMGCN: Mobile Edge Computing-Empowered Vessel Trajectory Prediction Using Spatio-Temporal Multi-Graph Convolutional Network”, IEEE Transactions on Industrial Informatics (TII), 2022. (SCI 一区, Top 期刊),<strong>(ESI Highly Cited Paper)</strong>.</li>
 <li>Q. Liu, R. Liu*, Y. Zhang, <strong>Yanli Yuan*</strong>, et al. “Management of Positioning Functions in Cellular Networks for Time-Sensitive Transportation Applications”, IEEE Transactions on Intelligent Transportation System (TITS), 2023. (SCI 一区，Top 期刊).</li>
-
+<li>X. Yang, M. Sheng*, <strong>Yanli Yuan*</strong>, and T. Q. S. Quek, “Network Topology Inference from Heterogeneous Incomplete Graph Signals”, IEEE Transactions on Signal Processing (TSP), 2020. (SCI 一区, Top期刊).</li>
+<li><strong>Yanli Yuan</strong>, D. W. Soh, H. Yang* and T. Q. S. Quek. “Learning Overlapping community-based Networks”, IEEE Transactions on Signal and Information Processing over Networks（TSIPN）, 2019. (SCI 二区).</li>
 </div>
 </ul>
 
