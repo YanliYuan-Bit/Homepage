@@ -18,7 +18,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 -->
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px 10px;"> Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=7La0oUa0e5IC&hl=en" target="_blank" style="font-size:15px;">Complete List</a>]</h2>
+<h2 style="margin: 30px 0px 10px;"> Selected Publications <temp style="font-size:15px;"></temp>[<a href="https://scholar.google.com/citations?user=7La0oUa0e5IC&hl=en" target="_blank" style="font-size:15px;">Complete List</a>]</h2>
 
 
 
