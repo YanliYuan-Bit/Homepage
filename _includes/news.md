@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[10. 2024]</strong> 实验室雷典同学获国家奖学金.</li>
+<li><strong>[10. 2024]</strong> 实验室雷典同学获研究生国家奖学金.</li>
 <!-- <li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://goindex.chen-song90.workers.dev">Googledrive index</a></span> has been now integrated to the webblog.</li>
 <li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://songchen.science/blog/gallery/">Hitchhiker's Gallery</a></span> has been released, thanks to anzai's <span style="color:#e74d3c"><a href="https://github.com/anzai249/easy-masonry/tree/main">work: easy-masonry</a></span> </li>
 <li><strong>[NOV. 2023]</strong> The <span style="color:#e74d3c"><a href="https://bemagic-etn.eu/news/80-bemagic-final-event">Final Event of the BeMAGIC project</a></span> will take place in the Universitat Autònoma de Barcelona, Spain, on 14-15 December. </li>
